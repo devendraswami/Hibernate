@@ -1,0 +1,23 @@
+HibRrnatR IntroduEtion
+1. Hibernate is Database independent, it can be used for any type of Database.
+2. Hibernate is applicable for both standalone applications and Enterprise Applications.
+3. Hibernate is providing very good support for Associations and Joins.
+4. Hibernate is having very good Annotations in order to reduce XML tech dependency in
+enterprise applications.
+5. Hibernate is having very good implementations for Primary key generation algorithms in
+order to generate and insert a unique primary key value for each and every insertion
+operation.
+6. Hibernate is providing very good Collections support to manage data.
+7. Hibernate is having its own query language, which is database independent, Object
+Oriented, that is, HQL in order to perform database operations.
+8. Hibernate has provided very good Cache mechanisms in order to reuse the results.
+9. Hibernate is having very good support for Connection Pooling mechanisms in order to
+improve Connection re usability.
+10. Hibernate is supported by almost all IDEs and Application Servers.
+11. Hibernate is against for SQL Queries in enterprise applications directly, but, if we want
+to write database dependent sql queries then it is possible to provide database
+dependent sql queries by using "Native SQL".
+12. Hibernate has provided very good transaction support.
+
+
+
